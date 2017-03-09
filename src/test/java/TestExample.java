@@ -3,7 +3,8 @@ import api.core.impl.Admin;
 import org.junit.Before;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 
 /**
  * Created by Vincent on 23/2/2017.
